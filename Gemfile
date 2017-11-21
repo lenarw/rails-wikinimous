@@ -51,3 +51,12 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+# Added at 2017-11-21 14:15:57 +0100 by lenarowe:
+gem "faker", "~> 1.8"
+
+# Added at 2017-11-21 14:43:18 +0100 by lenarowe:
+gem "kramdown", "~> 1.15"
+
+# Added at 2017-11-21 16:19:02 +0100 by lenarowe:
+gem "ace-rails-ap", "~> 4.1"
